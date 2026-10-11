@@ -1,3 +1,6 @@
+# Jupyter Notebook files
+*.ipynb
+*.ipynb_checkpoints
 # Normally, this is recommended to sync,
 # but we'll not worry about it for this
 # assignment
